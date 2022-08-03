@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="philo" targetName="fclean" />
+      <config projectName="philo" targetName="philo" />
+      <config projectName="philo" targetName="norm" />
+      <config projectName="philo" targetName="all" />
+      <config projectName="philo" targetName="re" />
+      <config projectName="philo" targetName="run" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81899a41-501b-4a7d-806f-16a362b87093" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../fdf/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/includes/error.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/includes/fdf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/includes/macros.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_atoi.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_bzero.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_calloc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_isalnum.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_isalpha.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_isascii.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_isdigit.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_isprint.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_itoa.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_lstadd_back.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_lstadd_front.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_lstclear.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_lstdelone.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_lstiter.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_lstlast.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_lstmap.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_lstnew.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_lstsize.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_memchr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_memcmp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_memcpy.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_memmove.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_memset.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_putchar_fd.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_putendl_fd.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_putnbr_fd.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_putstr_fd.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_split.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_strchr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_strdup.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_striteri.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_strjoin.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_strlcat.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_strlcpy.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_strlen.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_strmapi.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_strncmp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_strnstr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_strrchr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_strtrim.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_substr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_tolower.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/ft_toupper.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/get_next_line.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/get_next_line.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/get_next_line_utils.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/libft/libft.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/maps/42.fdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/maps/elem-col.fdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/maps/elem-fract.fdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/maps/elem.fdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/maps/elem2.fdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/maps/julia.fdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/maps/mars.fdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/maps/t1.fdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/maps/t2.fdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/font.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/font.xcf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/libmlx.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_init_loop.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_init_loop.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_int.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_int_str_to_wordtab.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_int_str_to_wordtab.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_mouse.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_mouse.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_new_image.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_new_image.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_new_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_new_window.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_new_window.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_opengl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_opengl.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_png.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_png.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_png.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_rgb.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_shaders.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_shaders.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_xpm.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/mlx/mlx_xpm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/src/colors.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/src/drawer.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/src/init.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/src/keys.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/src/keys_setup.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/src/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/src/parser.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/src/project.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/src/stack.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/src/utils.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/src/utils2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdf/src/utils3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libdwarf/elfparser/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../libdwarf/elfparser/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libdwarf/elfparser/includes/elf.h" beforeDir="false" afterPath="$PROJECT_DIR$/../libdwarf/elfparser/includes/elf.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libdwarf/elfparser/includes/elf_macros.h" beforeDir="false" afterPath="$PROJECT_DIR$/../libdwarf/elfparser/includes/elf_macros.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libdwarf/elfparser/includes/elf_parser.h" beforeDir="false" afterPath="$PROJECT_DIR$/../libdwarf/elfparser/includes/elf_parser.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libdwarf/elfparser/obj/elf_parser.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libdwarf/elfparser/obj/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libdwarf/elfparser/src/elf_file/file_handling.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libdwarf/elfparser/src/elf_file/file_handling.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libdwarf/elfparser/src/elf_header/elf_header_rd_init.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libdwarf/elfparser/src/elf_header/elf_header_rd_init.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libdwarf/elfparser/src/elf_header/elf_magic.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libdwarf/elfparser/src/elf_header/elf_magic.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libdwarf/elfparser/src/elf_parser.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libdwarf/elfparser/src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libdwarf/elfparser/src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../pipex/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/includes/pipex.h" beforeDir="false" afterPath="$PROJECT_DIR$/../pipex/includes/pipex.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/includes/pipex_bonus.h" beforeDir="false" afterPath="$PROJECT_DIR$/../pipex/includes/pipex_bonus.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/libft/ft_atoi.c" beforeDir="false" afterPath="$PROJECT_DIR$/../pipex/libft/ft_atoi.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/libft/printf/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/libft/printf/c_specifier.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/libft/printf/c_specifier.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/libft/printf/dui_specifier.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/libft/printf/dui_specifier.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/libft/printf/ft_printf.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/libft/printf/ft_printf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/libft/printf/ft_printf.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/libft/printf/others.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/libft/printf/others.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/libft/printf/percent_specifier.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/libft/printf/percent_specifier.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/libft/printf/pxX_specifier.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/libft/printf/pxX_specifier.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/libft/printf/s_specifier.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/libft/printf/s_specifier.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/libft/printf/test.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/src/error.c" beforeDir="false" afterPath="$PROJECT_DIR$/../pipex/src/error.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/src/error_bonus.c" beforeDir="false" afterPath="$PROJECT_DIR$/../pipex/src/error_bonus.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/src/parser.c" beforeDir="false" afterPath="$PROJECT_DIR$/../pipex/src/parser.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/src/parser_bonus.c" beforeDir="false" afterPath="$PROJECT_DIR$/../pipex/src/parser_bonus.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/src/pipex.c" beforeDir="false" afterPath="$PROJECT_DIR$/../pipex/src/pipex.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/src/pipex_bonus.c" beforeDir="false" afterPath="$PROJECT_DIR$/../pipex/src/pipex_bonus.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/src/utils.c" beforeDir="false" afterPath="$PROJECT_DIR$/../pipex/src/utils.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pipex/src/utils_bonus.c" beforeDir="false" afterPath="$PROJECT_DIR$/../pipex/src/utils_bonus.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Co945QEMYJLffQbbbGUZ96ckeP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/moabid/Documents/projects/philo&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Makefile Application.all">
+    <configuration name="all" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="philo" TARGET_NAME="all" CONFIG_NAME="all" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fclean" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="philo" TARGET_NAME="fclean" CONFIG_NAME="fclean" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="norm" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="philo" TARGET_NAME="norm" CONFIG_NAME="norm" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="philo" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="philo" TARGET_NAME="philo" CONFIG_NAME="philo" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="re" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="philo" TARGET_NAME="re" CONFIG_NAME="re" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="philo" TARGET_NAME="run" CONFIG_NAME="run" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Makefile Application.all" />
+      <item itemvalue="Makefile Application.fclean" />
+      <item itemvalue="Makefile Application.re" />
+      <item itemvalue="Makefile Application.philo" />
+      <item itemvalue="Makefile Application.run" />
+      <item itemvalue="Makefile Application.norm" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81899a41-501b-4a7d-806f-16a362b87093" name="Changes" comment="" />
+      <created>1659457875972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659457875972</updated>
+      <workItem from="1659457877215" duration="315000" />
+      <workItem from="1659458382741" duration="6731000" />
+      <workItem from="1659471808561" duration="5553000" />
+      <workItem from="1659489366514" duration="117000" />
+      <workItem from="1659497768112" duration="3000" />
+      <workItem from="1659526123103" duration="480000" />
+      <workItem from="1659540261558" duration="1000" />
+      <workItem from="1659552280395" duration="266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
