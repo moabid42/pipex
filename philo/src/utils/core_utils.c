@@ -6,7 +6,7 @@
 /*   By: moabid <moabid@student.42heilbronn.de>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/03 14:29:08 by moabid            #+#    #+#             */
-/*   Updated: 2022/08/03 23:25:30 by moabid           ###   ########.fr       */
+/*   Updated: 2022/08/05 17:28:22 by moabid           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -48,8 +48,8 @@ void	print_state(struct s_data *data, int id, char *action)
 {
 	pthread_mutex_lock(&(data->log));
 	if (!data->dead)
-		printf("%llu [%d] %s\n", ft_gettime() - data->start_time, id, action);
-		// printer(action, ft_gettime() - data->start_time, id);
+		// printf("%llu [%d] %s\n", ft_gettime() - data->start_time, id, action);
+		printer(action, ft_gettime() - data->start_time, id);
 	pthread_mutex_unlock(&(data->log));
 }
 
@@ -92,7 +92,7 @@ void	ft_usleep(long int time_in_ms)
 	start_time = 0;
 	start_time = ft_gettime();
 	while ((ft_gettime() - start_time) < time_in_ms)
-		usleep(time_in_ms / 10);
+		usleep(10);
 }
 
 static long long	time_diff(long long past, long long pres)

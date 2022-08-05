@@ -6,7 +6,7 @@
 /*   By: moabid <moabid@student.42heilbronn.de>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/03 14:18:57 by moabid            #+#    #+#             */
-/*   Updated: 2022/08/03 15:48:49 by moabid           ###   ########.fr       */
+/*   Updated: 2022/08/05 17:16:24 by moabid           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -29,6 +29,7 @@ bool	data_init(struct s_data *data, int ac, char **av)
 	data->time_to_eat = ft_atoi(av[3]);
 	data->time_to_sleep = ft_atoi(av[4]);
 	data->dead = false;
+	data->created = false;
 	data->start_time = 0;
 	if (ac == 6)
 		data->nb_of_meal = ft_atoi(av[5]);
@@ -57,6 +58,8 @@ bool	mutex_init(struct s_data *data)
 	if (pthread_mutex_init(&(data->death), NULL) != 0)
 		return (false);
 	if (pthread_mutex_init(&(data->log), NULL) != 0)
+		return (false);
+	if (pthread_mutex_init(&(data->wait), NULL) != 0)
 		return (false);
 	return (true);
 }

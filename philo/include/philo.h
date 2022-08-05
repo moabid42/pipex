@@ -6,7 +6,7 @@
 /*   By: moabid <moabid@student.42heilbronn.de>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/31 09:27:57 by athirion          #+#    #+#             */
-/*   Updated: 2022/08/03 23:04:21 by moabid           ###   ########.fr       */
+/*   Updated: 2022/08/05 17:15:51 by moabid           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -55,6 +55,7 @@ struct s_data
 	int				time_to_eat;
 	int				time_to_sleep;
 	int				nb_of_meal;
+	bool			created;
 	bool			dead;
 
 	long long		start_time;
@@ -64,6 +65,7 @@ struct s_data
 	pthread_mutex_t	eat;
 	pthread_mutex_t	death;
 	pthread_mutex_t	log;
+	pthread_mutex_t wait;
 
 	struct s_philo	*philo;
 };

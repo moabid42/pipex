@@ -6,7 +6,7 @@
 /*   By: moabid <moabid@student.42heilbronn.de>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/03 14:19:28 by moabid            #+#    #+#             */
-/*   Updated: 2022/08/03 14:19:40 by moabid           ###   ########.fr       */
+/*   Updated: 2022/08/05 17:16:46 by moabid           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -36,6 +36,7 @@ void	data_mutex_destory(struct s_data *data)
 	}
 	pthread_mutex_destroy(&data->eat);
 	pthread_mutex_destroy(&data->log);
+	pthread_mutex_destroy(&data->wait);
 }
 
 void	data_destroy(struct s_data *data)
